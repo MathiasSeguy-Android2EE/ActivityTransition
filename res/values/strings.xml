@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActivityTransition</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btn_sliding">Sliding Animation</string>
+    <string name="btn_scaling">Scaling Animation</string>
+    <string name="btn_specific">Other</string>
+    <string name="title_activity_sliding">SlidingActivity</string>
+    <string name="title_activity_thumb">ThumbActivity</string>
+
+</resources>
